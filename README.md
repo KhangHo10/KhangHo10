@@ -6,10 +6,8 @@
 Hi there! I'm Khang - a sophomore Computer Science student at Florida International University and passionate about Machine Learning and Software Engineering. I strive to create lasting impact in my community and inspire others to pursue their own journeys of curiosity and growth. Previously, I interned at State Farm as a Software Engineer, contributing to the Policy View team by building and improving software solutions for millions of users. Currently, I’m expanding my Machine Learning knowledge through research and hands-on projects.
 
 ## Experience
-- **Capital One** – Tech Summit Participant (Jul 2025 – Aug 2025)  
-  - Selected as 1 of 40 students nationwide for a competitive 5-day program focused on engineering, ML, and web development.  
-  - Collaborated with a team of 4 in a 2-day hackathon, designing and presenting a technical solution to Capital One Senior Engineers.  
-  - Participated in engineering-led workshops, product demos, and networking sessions with industry professionals.
+- **Applied Research Center- FIU** –  Undergraduate Research Assistant (Nov 2025 – Present)  
+  - Incoming Fall 2025- AI/ML Researcher
   
 - **State Farm** - Software Engineer Intern (May 2025 - Aug 2025)
   - Built a multi-agent application using OpenAI LLMs and Retrieval-Augmented Generation (RAG) to automate repetitive UI testing, designing agents for test execution, data retrieval, and reporting.  
@@ -22,6 +20,7 @@ Hi there! I'm Khang - a sophomore Computer Science student at Florida Internatio
   - Worked closely with frontend developers to integrate gameplay mechanics and ensure smooth multiplayer performance.  
 
 ## Latest
+- [**VPay**](https://github.com/KhangHo10/Vpay): a voice-activated, cardless payment system that lets users make secure purchases using only their voice. Built at ShellHacks 2024 in 36 hours, it helps anyone who forgot their wallet or phone and increases accessibility for users with disabilities.
 - [**Cardvantage**](https://github.com/KhangHo10/Cardvantage): Chrome extension that recommends the best credit card for each purchase using Google Gemini API. Built an AI-powered backend that analyzes merchant categories, caches results for performance, and delivers instant recommendations tailored to a user’s card wallet. 
 - [**DuelDot**](https://github.com/CarlosMelicandia/DuelDot): A real-time 2D multiplayer shooter game built with Node.js, Express.js, and Socket.IO — developed backend features for game state sync, leaderboard logic, and minimap rendering.  
 - [**GhostB**](https://github.com/KhangHo10/GhostB.git): Financial management app with FastAPI, SQLAlchemy, and Scikit-learn — includes an ML-based expense classifier and a psychological spending system for smarter budgeting.

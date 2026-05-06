@@ -21,7 +21,7 @@ Hi there! I'm Khang - a sophomore Computer Science student at Florida Internatio
   - Worked closely with frontend developers to integrate gameplay mechanics and ensure smooth multiplayer performance.  
 
 ## Latest
-- [**VPay**](https://github.com/KhangHo10/Vpay): a voice-activated, cardless payment system that lets users make secure purchases using only their voice. Built at ShellHacks 2024 in 36 hours, it helps anyone who forgot their wallet or phone and increases accessibility for users with disabilities.
+- [**VPay**](https://github.com/KhangHo10/Vpay): a voice-activated, cardless payment system that lets users make secure purchases using only their voice. Built at ShellHacks 2025 in 36 hours, it helps anyone who forgot their wallet or phone and increases accessibility for users with disabilities.
 - [**Cardvantage**](https://github.com/KhangHo10/Cardvantage): Chrome extension that recommends the best credit card for each purchase using Google Gemini API. Built an AI-powered backend that analyzes merchant categories, caches results for performance, and delivers instant recommendations tailored to a user’s card wallet. 
 - [**DuelDot**](https://github.com/CarlosMelicandia/DuelDot): A real-time 2D multiplayer shooter game built with Node.js, Express.js, and Socket.IO — developed backend features for game state sync, leaderboard logic, and minimap rendering.  
 - [**GhostB**](https://github.com/KhangHo10/GhostB.git): Financial management app with FastAPI, SQLAlchemy, and Scikit-learn — includes an ML-based expense classifier and a psychological spending system for smarter budgeting.

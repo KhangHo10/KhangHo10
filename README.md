@@ -3,7 +3,7 @@
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" alt="LinkedIn"/>](https://www.linkedin.com/in/khangxho)
 
 ## About Me
-Hi there! I'm Khang - a sophomore Computer Science student at Florida International University and passionate about Machine Learning and Software Engineering. I strive to create lasting impact in my community and inspire others to pursue their own journeys of curiosity and growth. Previously, I interned at State Farm as a Software Engineer, contributing to the Policy View team by building and improving software solutions for millions of users. Currently, I’m expanding my Machine Learning knowledge through research and hands-on projects.
+Hi there! I'm Khang - a junior Computer Science student at Florida International University and passionate about Software Engineering and Machine Learning. I strive to create lasting impact in my community and inspire others to pursue their own journeys of curiosity and growth. Previously, I interned at State Farm as a Software Engineer, contributing to the Policy View team by building and improving software solutions for millions of users. Currently, I’m expanding my Machine Learning knowledge through research and hands-on projects.
 
 ## Experience
 - **Applied Research Center- FIU** –  Undergraduate Research Assistant (Mar 2026 – Present)  

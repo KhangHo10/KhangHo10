@@ -9,7 +9,10 @@ Hi there! I'm Khang - a junior Computer Science student at Florida International
 - **Applied Research Center- FIU** –  Undergraduate Research Assistant (Mar 2026 – Present)  
   - Research and develop GenAI / Agentic AI systems and intelligent applications.
   - Funded by the U.S. Department of Energy (DOE).
-  
+
+- **Applied Research Center- FIU** –  Software Engineer (Mar 2026 – Present)  
+  - Build and maintain full-stack web applications ([D&D KM](https://www.dndkm.org/), [FAICE](https://faice.org/) to support research operations and knowledge management at FIU ARC.
+
 - **State Farm** - Software Engineer Intern (May 2025 - Aug 2025)
   - Built a multi-agent application using OpenAI LLMs and Retrieval-Augmented Generation (RAG) to automate repetitive UI testing, designing agents for test execution, data retrieval, and reporting.  
   - Improved GitLab CI/CD pipelines by adding automated validation stages, introducing parallel jobs, and refining deployment scripts to streamline production releases.  

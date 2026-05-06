@@ -14,7 +14,7 @@ Hi there! I'm Khang - a junior Computer Science student at Florida International
     - Build and maintain full-stack web applications ([D&D KM](https://www.dndkm.org/), [FAICE](https://faice.org/)) to support research operations and knowledge management at FIU ARC.
    
 - **INIT FIU** – *AI/ML Technical Lead* (Jan 2026 - Now)
-  - Led AI/ML workshops using Google Colab and Notion, creating hands-on machine learning labs and technical learning resources to improve accessibility of advanced AI concepts to students.
+  - Led AI/ML workshops using [Google Colab](https://drive.google.com/drive/folders/1EZj-3cqoiuNr04HLKASawxTf_Yi9gRoU?usp=sharing) and [Notion](https://www.notion.so/AI-ML-Workshops-Document-2e5708a37e2680aabf88c0b4ce28e6cb?source=copy_link), creating hands-on machine learning labs and technical learning resources to improve accessibility of advanced AI concepts to students.
 
 - **State Farm** - *Software Engineer Intern* (May 2025 - Aug 2025)
   - Built a multi-agent application using OpenAI LLMs and Retrieval-Augmented Generation (RAG) to automate repetitive UI testing, designing agents for test execution, data retrieval, and reporting.  

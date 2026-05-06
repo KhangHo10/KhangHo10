@@ -12,16 +12,14 @@ Hi there! I'm Khang - a junior Computer Science student at Florida International
     - Funded by the U.S. Department of Energy (DOE).
   - *Software Engineer* (Mar 2026 – Present)
     - Build and maintain full-stack web applications ([D&D KM](https://www.dndkm.org/), [FAICE](https://faice.org/)) to support research operations and knowledge management at FIU ARC.
+   
+- **INIT FIU** – *AI/ML Technical Lead* (Jan 2026 - Now)
+  - Led AI/ML workshops using Google Colab and Notion, creating hands-on machine learning labs and technical learning resources to improve accessibility of advanced AI concepts to students.
 
-- **State Farm** - Software Engineer Intern (May 2025 - Aug 2025)
+- **State Farm** - *Software Engineer Intern* (May 2025 - Aug 2025)
   - Built a multi-agent application using OpenAI LLMs and Retrieval-Augmented Generation (RAG) to automate repetitive UI testing, designing agents for test execution, data retrieval, and reporting.  
   - Improved GitLab CI/CD pipelines by adding automated validation stages, introducing parallel jobs, and refining deployment scripts to streamline production releases.  
   - Enhanced RESTful APIs on AWS Lambda by implementing fallback data handling, restructuring response logic, and refactoring 30+ unit tests to improve reliability and maintainability.  
-
-- **INIT Build** – Backend Lead (Feb 2025 – May 2025)
-  - Led a backend team of 4 in developing [DuelDot](https://github.com/CarlosMelicandia/DuelDot), a real-time 2D multiplayer shooter game.  
-  - Designed core backend systems including game state synchronization, leaderboard logic, and minimap rendering with Node.js, Express.js, and Socket.IO.  
-  - Worked closely with frontend developers to integrate gameplay mechanics and ensure smooth multiplayer performance.  
 
 ## Latest
 - [**VPay**](https://github.com/KhangHo10/Vpay): a voice-activated, cardless payment system that lets users make secure purchases using only their voice. Built at ShellHacks 2025 in 36 hours, it helps anyone who forgot their wallet or phone and increases accessibility for users with disabilities.

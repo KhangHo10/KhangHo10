@@ -6,12 +6,12 @@
 Hi there! I'm Khang - a junior Computer Science student at Florida International University and passionate about Software Engineering and Machine Learning. I strive to create lasting impact in my community and inspire others to pursue their own journeys of curiosity and growth. Previously, I interned at State Farm as a Software Engineer, contributing to the Policy View team by building and improving software solutions for millions of users. Currently, I’m expanding my Machine Learning knowledge through research and hands-on projects.
 
 ## Experience
-- **Applied Research Center- FIU** –  Undergraduate Research Assistant (Mar 2026 – Present)  
-  - Research and develop GenAI / Agentic AI systems and intelligent applications.
-  - Funded by the U.S. Department of Energy (DOE).
-
-- **Applied Research Center- FIU** –  Software Engineer (Mar 2026 – Present)  
-  - Build and maintain full-stack web applications ([D&D KM](https://www.dndkm.org/), [FAICE](https://faice.org/) to support research operations and knowledge management at FIU ARC.
+- **Applied Research Center – FIU**
+  - *Undergraduate Research Assistant* (Mar 2026 – Present)
+    - Research and develop GenAI / Agentic AI systems and intelligent applications.
+    - Funded by the U.S. Department of Energy (DOE).
+  - *Software Engineer* (Mar 2026 – Present)
+    - Build and maintain full-stack web applications ([D&D KM](https://www.dndkm.org/), [FAICE](https://faice.org/)) to support research operations and knowledge management at FIU ARC.
 
 - **State Farm** - Software Engineer Intern (May 2025 - Aug 2025)
   - Built a multi-agent application using OpenAI LLMs and Retrieval-Augmented Generation (RAG) to automate repetitive UI testing, designing agents for test execution, data retrieval, and reporting.  

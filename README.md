@@ -1,7 +1,7 @@
 # **Khang Ho**
 
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" alt="LinkedIn"/>](https://www.linkedin.com/in/khangxho)
-&nbsp;&nbsp;
+&nbsp;
 [<img src="https://cdn.simpleicons.org/googleearth/0A66C2" width="30" alt="Portfolio"/>](https://khangho10.github.io/Portfolio/)
 
 ## About Me

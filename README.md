@@ -1,7 +1,8 @@
 # **Khang Ho**
 
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" alt="LinkedIn"/>](https://www.linkedin.com/in/khangxho)
-[<img src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/icons/globe2.svg" width="30" alt="Portfolio"/>](https://khangho10.github.io/Portfolio/)
+&nbsp;&nbsp;&nbsp;&nbsp;
+[<img src="https://cdn.simpleicons.org/googleearth/0A66C2" width="30" alt="Portfolio"/>](https://khangho10.github.io/Portfolio/)
 
 ## About Me
 Hi there! I'm Khang - a junior Computer Science student at Florida International University and passionate about Software Engineering and Machine Learning. I strive to create lasting impact in my community and inspire others to pursue their own journeys of curiosity and growth. Previously, I interned at State Farm as a Software Engineer, contributing to the Policy View team by building and improving software solutions for millions of users. Currently, I’m expanding my Machine Learning knowledge through research and hands-on projects.

@@ -11,7 +11,7 @@ Hi there! I'm Khang - a junior Computer Science student at Florida International
 - **Applied Research Center – FIU** - *Undergraduate Research Assistant* (Mar 2026 – Present)
   - Architected a vLLM-powered summarization pipeline that reduced technology article creation time from 5 days to 10 minutes.
   - Developed a FastAPI service using vLLM to convert Markdown summaries into structured JSON, reducing production failures by 15%.
-  - Contribute to full-stack research applications including D&D KM and FAICE, supporting knowledge management and workflows for 40+ researchers.
+  - Contribute to full-stack research applications including D&D KM and FAICE, supporting knowledge management and workflows for 40+ researcherss.
    
 - **INIT FIU** – *AI/ML Technical Lead* (Dec 2025 - Present)
   - Led AI/ML workshops using [Google Colab](https://drive.google.com/drive/folders/1EZj-3cqoiuNr04HLKASawxTf_Yi9gRoU?usp=sharing) and [Notion](https://www.notion.so/AI-ML-Workshops-Document-2e5708a37e2680aabf88c0b4ce28e6cb?source=copy_link), creating hands-on machine learning labs and technical learning resources to improve accessibility of advanced AI concepts to students.

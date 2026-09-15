@@ -15,6 +15,7 @@ Hi there! I'm Khang - a junior Computer Science student at Florida International
    
 - **INIT FIU** – *AI/ML Technical Lead* (Dec 2025 - Present)
   - Led AI/ML workshops using [Google Colab](https://drive.google.com/drive/folders/1EZj-3cqoiuNr04HLKASawxTf_Yi9gRoU?usp=sharing) and [Notion](https://www.notion.so/AI-ML-Workshops-Document-2e5708a37e2680aabf88c0b4ce28e6cb?source=copy_link), creating hands-on machine learning labs and technical learning resources to improve accessibility of advanced AI concepts to students.
+  - Led 7 hands-on AI/ML workshops for 130+ students, teaching machine learning concepts through interactive technical sessions.
 
 - **State Farm** - *Software Engineer Intern* (May 2026 - Aug 2026)
   - Engineered an AI-powered CLI using Python, AWS Bedrock, and OpenSearch to unify GitHub Copilot and Claude Code context, building a two-stage RAG pipeline that improved retrieval precision by 25% with <500ms latency.
